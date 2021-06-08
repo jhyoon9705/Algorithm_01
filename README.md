@@ -34,13 +34,16 @@ ___
 
 ## 4. Images and corresponding probability that predicted Right
 #### <b>4-a</b>. model_1
-![-4](https://user-images.githubusercontent.com/79308015/121110336-1a565c80-c848-11eb-861b-666287867b0d.JPG)
+![1](https://user-images.githubusercontent.com/79308015/121112161-fea08580-c84a-11eb-898b-850dff4fb45c.JPG)
+
 
 #### <b>4-b</b>. model_2
-![-4](https://user-images.githubusercontent.com/79308015/121110350-1cb8b680-c848-11eb-814f-2bdeedb6fdae.JPG)
+![2](https://user-images.githubusercontent.com/79308015/121112171-02cca300-c84b-11eb-8a66-8e2a77cc2484.JPG)
+
 
 #### <b>4-c</b>. model_3
-![-4](https://user-images.githubusercontent.com/79308015/121110361-204c3d80-c848-11eb-9b02-236240a2c3dc.JPG)
+![3](https://user-images.githubusercontent.com/79308015/121112179-05c79380-c84b-11eb-8050-72c3fc007cf8.JPG)
+
 
 
 ## 5. Images and corresponding probability that predicted Wrong
